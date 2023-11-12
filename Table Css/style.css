@@ -1,0 +1,78 @@
+* {
+
+    font-family: 'Times New Roman', Times, serif monospace;
+}
+
+.heading {
+    background-color: #816C5B;
+    text-align: center;
+    color: black;
+}
+
+
+table {
+    width: 60%;
+    height: 85%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 2px;
+    line-height: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+}
+table tr  :hover {
+    color:blue;
+    cursor:  pointer;
+}
+
+.Row1 {
+
+    background-color: rgb(102, 141, 60);
+}
+
+.Row2 {
+    background-color: rgb(189, 208, 156)
+}
+
+.Row3 {
+    background-color: rgb(78, 97, 114);
+}
+
+.Row4 {
+    background-color: rgb(131, 146, 130);
+}
+
+.Row5 {
+    background-color: rgb(160, 173, 184);
+}
+
+.Row6 {
+    background-color: rgb(169, 161, 140);
+}
+
+.Row7 {
+    background-color: #816C5B;
+}
+
+.Row8 {
+    background-color: rgb(172, 151, 180);
+}
+
+.Row9 {
+    background-color: #858380;
+}
+
+.Row10 {
+    background-color: #E5989B;
+}
+
+.eleven {
+    background-color: #6D6875;
+}
+
+.one {
+    text-align: center;
+    font-size: 25px;
+    background-color: #E5989B;
+}
